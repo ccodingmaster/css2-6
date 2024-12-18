@@ -1,0 +1,262 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#main_container {
+    max-width: 1604px;
+    width: 100%;
+    padding: 96px;
+    background: #E4EBFF;
+    margin: 166px auto;
+}
+
+#container {
+    max-width: 1280;
+    width: 100%;
+    background: #FFF;
+    padding: 96px 0;
+    margin: 0 auto;
+}
+
+
+#header_container {
+    width: 100%;
+    padding: 0 32px;
+}
+
+#header_container_content {
+    width: 929px;
+    margin: 0 auto;
+}
+
+
+#features {
+    text-align: center;
+    color: #6941C6;
+    font-family: var(--Font-family-font-family-body, Inter);
+    font-size: var(--Font-size-text-md, 16px);
+    font-weight: 600;
+}
+
+
+
+h1 {
+    text-align: center;
+    margin-top: 12px;
+    color: #181D27;
+    font-family: "Inknut Antiqua";
+    font-size: 40px;
+    font-weight: 600;
+    letter-spacing: -0.8px;
+}
+
+
+
+
+
+#header_container_p {
+    width: 100%;
+    color: #535862;
+    text-align: center;
+    font-family: "Inria Sans";
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 32px;
+    margin-bottom: 96px;
+}
+
+
+
+#head_section {
+    max-width: 1280px;
+    width: 100%;
+    height: 512px;
+    padding: 0 32px;
+    margin-top: 96px;
+    overflow: hidden;
+}
+
+#left_head {
+    max-width: 553px;
+    width: 100%;
+    margin-top: 89px;
+    display: inline-block;
+}
+
+
+#chat_icon {
+    margin-bottom: 20px;
+}
+
+
+h2 {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 30px;
+    font-weight: 600;
+    line-height: 38px;
+    margin-bottom: 16px;
+}
+
+
+#left_head_p {
+    color: #535862;
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 28px
+}
+
+
+#left_head_list {
+    margin-top: 32px;
+    padding-left: 16px;
+    display: inline-block;
+}
+
+
+#list_p {
+    width: 90%;
+    display: inline-block;
+    vertical-align: middle;
+    margin-bottom: 20px;
+    color: #535862;
+    font-family: Inder;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+
+#check{
+                
+    margin-right: 12px;
+}
+
+#list_p_bot{
+    width: 90%;
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-family: Inder;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+
+#check_bot{               
+    margin-right: 12px;
+    vertical-align: middle;
+}
+
+
+#image_first{
+    margin-left: 660px;
+    margin-top: -437px;
+    width: 753px;
+    height: 502px;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+
+#mid_section{
+    margin-top: 96px;
+    padding: 0 32px;
+    overflow: hidden;
+    margin-bottom: 96px;
+}
+
+
+#image_second{
+    width: 752.941px;
+    height: 501.961px;
+    margin-left: -200px;
+}
+
+
+
+#right_mid_section {
+    max-width: 560px;
+    width: 100%;
+    height: 334px;
+    display: inline-block;
+    margin-left: 96px;
+    vertical-align: text-bottom;
+    margin-bottom: 90px;
+}
+
+#zap{
+    margin-bottom: 20px;
+}
+
+
+h3 {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 38px;                    
+    margin-bottom: 16px;
+}
+
+
+#right_mid_section_p{
+    color: #535862;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin-bottom: 32px;
+}         
+
+
+
+#right_bot_section{
+    margin-top: 89px;
+    max-width: 560px;
+    width: 100%;
+    margin-left: 96px;
+}
+
+#breakout{
+    margin-bottom: 20px;
+}
+
+h4 {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 30px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 38px; 
+    margin-bottom: 16px;
+}
+
+
+#right_bot_section_p{
+    color: #535862;
+    font-family: Inter;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 28px;
+    margin-bottom: 32px;
+}        
+
+
+#image_third {
+    width: 752.941px;
+    height: 501.961px;
+    margin-left: 660px;
+    margin-top: -437px;
+}
+                        
